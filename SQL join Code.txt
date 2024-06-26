@@ -1,0 +1,4 @@
+CREATE Table Joined data AS
+SELECT *
+FROM COVID19_dataset2
+INNER JOIN second table USING(geography);
